@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="Task table schema" source="com.glide.task">f71bab289f3112107f447fee0124abdf</dependency>
+        <min_version>1.0.0</min_version>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-12 01:42:43</sys_created_on>
+        <sys_id>872a692b451212107f44927e2547c74a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="CICD Demo App" source="x_cdltd_cicd_demo">5e0969a7451212107f44927e2547c71a</sys_package>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-12 01:42:43</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>
